@@ -28,5 +28,5 @@ To bridge the educational gap in Bangladesh by providing every student—regardl
 - [ ] Scaling to support 1M+ students across rural Bangladesh.
 
 ---
-**Founder:** [Nobo Krishna](linkedin.com/in/nobo-krishna-68b2093a5)
+**Founder:** [Nobo Roy] (linkedin.com/in/nobo-roy-founder-epist)
 **Contact:** founder@epist.app
